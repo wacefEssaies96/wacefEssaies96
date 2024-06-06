@@ -74,26 +74,11 @@
 ### :fire: My Stats :
 <div align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wacefEssaies96&layout=compact&theme=react&hide=html,css,scss,blade,twig,less)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wacefEssaies96&layout=compact&theme=react&hide=html,css,scss,blade,twig,less&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
   
-  ![Github stats](https://github-readme-stats.vercel.app/api?username=wacefEssaies96&theme=react&show_icons=true)
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=wacefEssaies96&theme=react&show_icons=true&rank_icon=github&include_all_commits=true)
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wacefEssaies96&theme=react)](https://git.io/streak-stats) 
   
 </div>
 
-
-<!--
-**wacefEssaies96/wacefEssaies96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

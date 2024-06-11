@@ -76,7 +76,7 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wacefEssaies96&layout=compact&theme=react&hide=html,css,scss,blade,twig,less&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
   
-  ![Github stats](https://github-readme-stats.vercel.app/api?username=wacefEssaies96&theme=react&show_icons=true&rank_icon=github&include_all_commits=true)
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=wacefEssaies96&theme=react&show_icons=true&include_all_commits=true)
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wacefEssaies96&theme=react)](https://git.io/streak-stats) 
   

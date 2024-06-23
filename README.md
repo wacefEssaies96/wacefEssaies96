@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=wacefEssaies96)
+<!-- ![](https://komarev.com/ghpvc/?username=wacefEssaies96) -->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
   <div id="badges">

@@ -14,6 +14,9 @@
     <a href="https://www.facebook.com/wacef.essaies.7/">
       <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
+    <a href="https://medium.com/@wacef.essaies">
+      <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+    </a>
   </div>
 </div> 
 

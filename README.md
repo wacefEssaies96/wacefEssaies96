@@ -1,8 +1,10 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Wacef ESSAIES</h1>
+<h3 align="center">Software Engineer | Full Stack JavaScript Developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wacefessaies96&label=Profile%20views&color=0e75b6&style=flat" alt="wacefessaies96" /> </p>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
   <div id="badges">
+    <h3 align="left">Connect with me:</h3>
     <a href="https://www.linkedin.com/in/wacef-essaies/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
@@ -17,12 +19,9 @@
 
 ---
 
-  ### :man_technologist: About Me :
-  - I'm Wacef ESSAIES, a passionate and dedicated Full-stack Developer with a strong foundation in both front-end and back-end development. My professional journey has been enriched by diverse and complex projects, ranging from real-time systems to chat and video conferencing, as well as online payment solutions. These experiences have allowed me to hone my skills and embrace challenges with enthusiasm.
-  
-  - Currently, I am pursuing my engineering program at ESPRIT, complementing my practical experiences with a strong theoretical foundation. I hold a Licentiate degree in Information Systems Development (ISD), which has equipped me with valuable insights into software development methodologies.
-  
-  - My goal as a developer is to continuously expand my knowledge and contribute to innovative projects that push the boundaries of technology. I thrive in collaborative environments where creativity meets problem-solving, and I am always eager to take on new challenges. If you're interested in connecting or discussing opportunities in the world of software development, please feel free to reach out. Let's explore the possibilities together!
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wacefessaies96" alt="wacefessaies96" /></a> 
+</p>
 
 ---
 
@@ -73,13 +72,10 @@
 ---
 
 ### :fire: My Stats :
-<div align="center">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wacefEssaies96&layout=compact&theme=react&hide=html,css,scss,blade,twig,less&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-  
-<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=wacefEssaies96&theme=react&show_icons=true&include_all_commits=true)  -->
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wacefEssaies96&theme=react)](https://git.io/streak-stats) 
-  
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wacefEssaies96&layout=compact&theme=react&hide=html,css,scss,blade,twig,less&langs_count=8" alt="wacefessaies96" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wacefEssaies96&theme=react&show_icons=true&include_all_commits=true" alt="wacefessaies96" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=wacefEssaies96&theme=react" alt="wacefessaies96" /></p>
 

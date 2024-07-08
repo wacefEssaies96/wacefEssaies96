@@ -23,7 +23,7 @@
 ---
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wacefessaies96" alt="wacefessaies96" /></a> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wacefessaies96&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="wacefessaies96" /></a> 
 </p>
 
 ---

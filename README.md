@@ -1,7 +1,16 @@
 <h1 align="center">Hi 👋, I'm Wacef ESSAIES</h1>
 <h3 align="center">Software Engineer | Full Stack (JavaScript, Python) Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wacefessaies96&label=Profile%20views&color=0e75b6&style=flat" alt="wacefessaies96" /> </p>
+<h3>👨‍💻 About Me</h3>
+<ul>
+  <li>🔭 Full Stack Developer with expertise in modern web technologies</li>
+  <li>🌐 Check out my portfolio: <a href="http://wacef-essaies.vercel.app/">Wacef's Website</a></li>
+  <li>🛠️ Building scalable applications with JavaScript/TypeScript and Python</li>
+  <li>📱 Experience with various frameworks including React, Vue, Angular, and Node.js</li>
+  <li>🌱 Always learning and exploring new technologies</li>
+</ul>
+
+<p > <img src="https://komarev.com/ghpvc/?username=wacefessaies96&label=Profile%20views&color=0e75b6&style=flat" alt="wacefessaies96" /> </p>
 <div id="header" align="center">
   <div id="badges">
     <h3 align="left">Connect with me:</h3>
@@ -41,7 +50,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" title="Symfony" alt="Symfony" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastApi" alt="FastApi" width="40" height="40"/>&nbsp
 </div>
 

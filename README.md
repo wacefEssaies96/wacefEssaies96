@@ -5,7 +5,7 @@
 <ul>
   <li>🔭 Full Stack Developer with expertise in modern web technologies</li>
   <li>🌐 Check out my portfolio: <a href="http://wacef-essaies.vercel.app/">Wacef's Website</a></li>
-  <li>🛠️ Building scalable applications with JavaScript/TypeScript and Python</li>
+  <li>🛠️ Building scalable applications with JavaScript/TypeScript</li>
   <li>📱 Experience with various frameworks including React, Vue, Angular, and Node.js</li>
   <li>🌱 Always learning and exploring new technologies</li>
 </ul>

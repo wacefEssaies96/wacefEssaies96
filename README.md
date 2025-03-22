@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wacef ESSAIES</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Team lead | Software Engineer</h3>
 
 <h3>👨‍💻 About Me</h3>
 <ul>
@@ -38,7 +38,7 @@
 ---
 
 ### :hammer_and_wrench: Frameworks, Languages and Tools :
-#### Frameworks : 
+#### Frameworks/Libraries : 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="VueJS" width="40" height="40"/>&nbsp;
